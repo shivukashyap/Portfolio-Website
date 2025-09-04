@@ -43,13 +43,13 @@ Open the files in your favorite code editor and customize:
 #### `index.html` - Update Your Information:
 ```html
 <!-- Change your name -->
-<h1 class="name-main">Your Name</h1>
+<h1 class="Shivam Kumar">Your Name</h1>
 
 <!-- Update your role -->
 <span class="role-main" id="roleText">Your Title</span>
 
 <!-- Add your description -->
-<p class="hero-description">Your personalized description...</p>
+<p class="hero-description">loves tech.</p>
 
 <!-- Update contact information -->
 <p>ashutoshgautamformal@gmail.com</p>
